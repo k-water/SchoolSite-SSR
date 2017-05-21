@@ -20,7 +20,7 @@
         <div class="floatDtel">
           <span>15717481021</span>
         </div>
-        <div style="text-align:center;padding:10px;background:#EBEBEB;"><img src="https://oc1gyfe6q.qnssl.com/17-5-17/12922047-file_1495034016202_77a4.png" width="100%">
+        <div style="text-align:center;padding:10px;background:#EBEBEB;"><img src="https://oc1gyfe6q.qnssl.com/17-5-21/28671670-file_1495333541941_e6a6.jpg" width="100%">
         </div>
       </div>
     </div>

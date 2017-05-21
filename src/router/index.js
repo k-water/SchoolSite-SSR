@@ -42,7 +42,7 @@ const scrollBehavior = (to, from, savedPosition) => {
 
 export function createRouter() {
   return new Router({
-    mode: 'hash',
+    mode: 'history',
     base: __dirname,
     routes: [{
       path: '/',

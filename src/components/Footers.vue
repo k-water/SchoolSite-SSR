@@ -14,7 +14,7 @@
         </el-col>
         <el-col :span="8" class="QRcode">
           <div class="QR-img">
-            <img src="https://oc1gyfe6q.qnssl.com/17-5-17/12922047-file_1495034016202_77a4.png" alt="">
+            <img src="https://oc1gyfe6q.qnssl.com/17-5-21/28671670-file_1495333541941_e6a6.jpg" alt="">
           </div>
         </el-col>
         <el-col :span="8" class="word">
