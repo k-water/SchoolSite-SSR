@@ -18,7 +18,7 @@
           </div>
         </el-col>
         <el-col :span="8" class="word">
-          <h3>在线留言{{formWord.name}}</h3>
+          <h3>在线留言</h3>
           <el-form :label-position="labelPosition" label-width="0px" :model="formWord" ref="formWord">
             <el-form-item label="">
               <el-input v-model="formWord.name" placeholder="名称"></el-input>
@@ -94,10 +94,11 @@
               type: 'error'
             })
           })
-          this.formWord.name = ''
-          this.formWord.phone = ''
-          this.formWord.remark = ''          
-          
+          setTimeout(() => {
+            this.formWord.name = ''
+            this.formWord.phone = ''
+            this.formWord.remark = ''
+          },1000)
         }
       }
     }
